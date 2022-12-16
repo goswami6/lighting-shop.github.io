@@ -1,0 +1,27 @@
+.flex{
+    display: flex;
+    color: black;
+    text-decoration: none;
+}
+.items-center{
+    align-items: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.semibold{
+    font-weight: bolder;
+}
+.mx-2{
+    margin-left:12px;
+    margin-right: 12px;
+}
+.section-p1{
+    padding: 0px 80px;
+}
+.section-m1{
+    margin: 40px 0;
+}
